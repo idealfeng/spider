@@ -1,0 +1,24 @@
+{
+  "store": {
+    "book": [
+      {
+        "category": "修真",
+        "author": "六道"
+      },
+      {
+        "category": "修改",
+        "author": "天蚕土豆"
+      },
+      {
+        "category": "修真",
+        "author": "唐家三少",
+        "price": 12
+      }
+    ],
+    "bicycle": {
+      "author": "老马",
+      "color": "黑色",
+      "price": 19.95
+    }
+  }
+}
